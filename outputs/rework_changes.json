@@ -1,0 +1,18 @@
+[
+  "- train_02: Người thứ 1, khớp `left_ear` đổi từ v=0 sang v=2 (ước lượng đúng giải phẫu)",
+  "- train_06: Người thứ 1, khớp `left_ear` đổi từ v=0 sang v=2 (ước lượng đúng giải phẫu)",
+  "- train_06: Người thứ 1, khớp `right_ear` đổi từ v=0 sang v=2 (ước lượng đúng giải phẫu)",
+  "- train_09: Người thứ 1, khớp `left_eye` đổi từ v=0 sang v=1 (ước lượng đúng giải phẫu)",
+  "- train_10: Người thứ 1, khớp `left_hip` đổi từ v=0 sang v=1 (ước lượng đúng giải phẫu)",
+  "- train_10: Người thứ 1, khớp `right_hip` đổi từ v=0 sang v=1 (ước lượng đúng giải phẫu)",
+  "- train_11: Người thứ 1, khớp `right_wrist` đổi từ v=0 sang v=1 (ước lượng đúng giải phẫu)",
+  "- train_11: Người thứ 1, khớp `left_hip` đổi từ v=0 sang v=1 (ước lượng đúng giải phẫu)",
+  "- train_11: Người thứ 1, khớp `right_hip` đổi từ v=0 sang v=1 (ước lượng đúng giải phẫu)",
+  "- train_13: Bổ sung người thứ 3 bị thiếu ở góc trái (gold person #1)",
+  "- train_13: Người thứ 1, khớp `left_knee` đổi từ v=0 sang v=1 (ước lượng đúng giải phẫu)",
+  "- train_16: Người thứ 1, khớp `nose` đổi từ v=0 sang v=1 (ước lượng đúng giải phẫu)",
+  "- train_16: Người thứ 1, khớp `right_eye` đổi từ v=0 sang v=2 (ước lượng đúng giải phẫu)",
+  "- train_19: Người thứ 1, khớp `left_ear` đổi từ v=0 sang v=1 (ước lượng đúng giải phẫu)",
+  "- train_19: Người thứ 1, khớp `right_ear` đổi từ v=0 sang v=2 (ước lượng đúng giải phẫu)",
+  "- train_20: Người thứ 1, khớp `right_wrist` hiệu chỉnh vị trí tâm khớp theo gold"
+]
